@@ -5,6 +5,8 @@
   "main": "./dist/index.js",
   "author": "Mani Kant Sharma",
   "license": "MIT",
+  "repository": "https://github.com/Manikants98/react-mkx-toolkit",
+  "homepage": "https://manikantsharma.vercel.app",
   "keywords": [
     "useKeyboard",
     "useCurrentLocation",
