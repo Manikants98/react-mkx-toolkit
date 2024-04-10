@@ -1,0 +1,24 @@
+{
+  "name": "react-mkx-toolkit",
+  "version": "1.7.2",
+  "description": "React Custom Hooks provide an efficient means to encapsulate and share logic among components within React applications. This package includes useful React custom hooks.",
+  "main": "./dist/index.js",
+  "author": "Mani Kant Sharma",
+  "license": "MIT",
+  "keywords": [
+    "useKeyboard",
+    "useCurrentLocation",
+    "useRandomArray",
+    "keyboard",
+    "location",
+    "keyboard",
+    "random"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66"
+  }
+}
